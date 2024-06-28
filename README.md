@@ -132,18 +132,36 @@ El objetivo es proporcionar insights significativos al equipo de marketing para 
 
 Adicionalmente, se utilizó Power BI para generar un dashboard que facilite la comprensión de la información por parte de los interesados. Power BI ofrece varias ventajas que mejoran la capacidad del equipo de marketing para tomar decisiones informadas y basadas en datos, optimizando sus estrategias para convertir los ciclistas ocasionales en miembros anuales. 
 
-**Ver enlace POWER BI**
+**Ver dashboard POWER BI**
 
 ## 7. CONCLUSIONES
-Determine a los clientes casuales que tienden a utilizar el servicio para viajes de trabajo y presénteles la membresía, ya que estos tienen mayores posibilidades de registrarse.
-
+- El 38.21% de los viajes son realizados por usuarios ocasionales, mientras que el 61.79% de los viajes son realizados por usuarios anuales. Esto indica que los usuarios anuales tienen mayor tasa de utilización del servicio, siendo consistente con la idea de que suscribirse anualmente incentiva a un uso más frecuente del préstamo de bicicletas.
+- Los usuarios consideran igual de atractivas ambas opciones de tipo de bicicleta, clásica o eléctrica, teniendo cada una el 50% del total de los viajes del año.
+- En cuanto a la distribución de viajes por tipo de usuario y bicicleta, tenemos:
+  * Los usuarios ocasionales tienen una ligera preferencia por las bicicletas eléctricas (19.59%) sobre las bicicletas clásicas (18.62%)
+  * Los usuarios anuales tienen una ligera preferencia por las bicicletas clásicas (31.41%) sobre las bicicletas eléctricas (30.38%)
+Estas cifras pueden indicar que los usuarios ocasionales prefieren experiencias menos exigentes físicamente, por lo que tienden a optar por bicicletas eléctrias. En contraste con los usuarios anuales, que pueden encontrar las bicicletas clásicas más adecuadas para sus necesidades regulares. 
+- La duración de los viajes de los usuarios ocasionales es en promedio de 21.7 minutos, mientras que la duración de los viajes de los usuarios anuales es en promedio de 14.1 minutos. 
+La mayor duración de los viajes de los usuarios ocasionales sugiere que estos pueden estar utilizando el servicio para actividades recreativas o turísticas. Los viajes más largos son indicativos de un uso esporádico y posiblemente planificado con más tiempo.
+En contraste, los usuarios anuales tienen una menor duración de viaje promedio, lo que indica un uso más cotidiano y rutinario, probablemente para desplazamientos diarios como ir al trabajo o a la escuela.
+- Patrones de uso semanal:
+  * Los usuarios ocasionales utilizan el servicio en mayor proporción durante los días de semana (24.03%) que durante los fines de semana (14.18%)
+  * Los usuarios anuales utilizan el servicio en mayor proporción durante los días de semana (46.6%) que durante los fines de semana (15.19%) 
+Aunque se les denomina "ocasionales," estos usuarios utilizan el servicio en una mayor proporción durante los días de semana. Esto sugiere que los viajes de los usuarios ocasionales no son exclusivamente recreativos, sino que también pueden incluir desplazamientos laborales o diligencias específicas.
+Los usuarios anuales, por otro lado, muestran un uso significativamente mayor durante los días de semana, lo que refuerza la idea de que el servicio de bicicletas está integrado en sus rutinas diarias. Este grupo parece depender del servicio para sus necesidades diarias de transporte, lo que indica una alta fidelidad y utilidad del servicio en su vida cotidiana.
+- Durante los fines de semana la duración de los viajes es mayor en ambos tipos de usuario.
+- La estación más utilizada para iniciar y finalizar los viajes para los usuarios ocasionales es Streeter Dr & Grand Ave, y para los usuarios anuales es Clinton St & Washington Blvd.
 
 ## 8. RECOMENDACIONES
 
 ### 8.1. De usuarios ocasionales a usuarios anuales
-
 Para maximizar la cantidad de membresías anuales, a partir de la conversión de usuarios ocasionales a usuarios anuales se tienen las siguientes recomendaciones:
-- ón.
+- Teniendo en cuenta la ligera preferencia que tienen los usuarios ocasionales por las bicicletas eléctricas, se pueden diseñar estrategias que destaquen las ventajas de suscribirse anualmente asociadas al uso de bicicletas elétricas como acceso ilimitado o descuentos.  
+- Crear promociones o paquetes que fomenten la exploración y el disfrute de la ciudad, puede ser incluyendo rutas turísticas o descuentos por mayor tiempo de viaje.
+- Considerar la implementación de más estaciones en áreas turísticas o de recreación para apoyar viajes más largos.
+- Ofrecer paquetes que cubran tanto días de semana como fines de semana, incentivando un uso más frecuente del servicio.
+- Destacar los beneficios de las membresías anuales para convertir a más usuarios ocasionales en anuales, enfatizando la conveniencia y el ahorro a largo plazo.
+- Recopilar y analizar feedback de ambos grupos de usuarios para entender mejor sus necesidades y preferencias. Esto puede ayudar a personalizar aún más las ofertas y mejorar la experiencia del usuario.
   
 ### 8.2. Acerca de los datos
 
