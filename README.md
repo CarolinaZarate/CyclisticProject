@@ -115,18 +115,20 @@ Para claridad se indican las categorías para las siguientes variables:
 
 En esta etapa, evaluamos la calidad de la información, para lo cual utilizamos el lenguaje de programación R.
 
-**Ver notebook**
+[**Ver código** ](https://github.com/CarolinaZarate/CyclisticProject/blob/main/cyclistic_procesamiento.R)
 
 ## 5. LIMPIEZA DE DATOS
 
 En esta etapa, garantizamos la integridad de la información, para lo cual utilizamos el lenguaje de programación R.
+
+[**Ver código** ](https://github.com/CarolinaZarate/CyclisticProject/blob/main/cyclistic_limpieza.R)
 
 ## 6. ANÁLISIS Y VISUALIZACIÓN DE DATOS
 
 El análisis se centrará en identificar patrones que puedan revelar los factores que motivan a los ciclistas ocasionales a adquirir una membresía anual. 
 El objetivo es proporcionar insights significativos al equipo de marketing para apoyar la toma de decisiones estratégicas.
 
-**Ver notebook**
+[**Ver código** ](https://github.com/CarolinaZarate/CyclisticProject/blob/main/cyclistic_analisis.R)
 
 Adicionalmente, se utilizó Power BI para generar un dashboard que facilite la comprensión de la información por parte de los interesados. Power BI ofrece varias ventajas que mejoran la capacidad del equipo de marketing para tomar decisiones informadas y basadas en datos, optimizando sus estrategias para convertir los ciclistas ocasionales en miembros anuales. 
 
