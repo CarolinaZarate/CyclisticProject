@@ -130,6 +130,8 @@ El objetivo es proporcionar insights significativos al equipo de marketing para 
 
 [**Ver código** ](https://github.com/CarolinaZarate/CyclisticProject/blob/main/cyclistic_analisis.R)
 
+[**Ver gráficas** ](https://github.com/CarolinaZarate/CyclisticProject/tree/main/graficas)
+
 Adicionalmente, se utilizó Power BI para generar un dashboard que facilite la comprensión de la información por parte de los interesados. Power BI ofrece varias ventajas que mejoran la capacidad del equipo de marketing para tomar decisiones informadas y basadas en datos, optimizando sus estrategias para convertir los ciclistas ocasionales en miembros anuales. 
 
 **Ver dashboard POWER BI**
