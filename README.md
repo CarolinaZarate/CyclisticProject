@@ -4,8 +4,6 @@ Certificado Profesional de Análisis de datos de Google y Coursera
 
 Práctica desarrollada por: Carolina Zárate Saldarriaga
 
-Febrero/2024
-
 ## TABLA DE CONTENIDO
 
 [1. INTRODUCCIÓN](#1-INTRODUCCIÓN)
