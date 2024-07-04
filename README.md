@@ -134,7 +134,9 @@ El objetivo es proporcionar insights significativos al equipo de marketing para 
 
 Adicionalmente, se utilizó Power BI para generar un dashboard que facilite la comprensión de la información por parte de los interesados. Power BI ofrece varias ventajas que mejoran la capacidad del equipo de marketing para tomar decisiones informadas y basadas en datos, optimizando sus estrategias para convertir los ciclistas casuales en miembros anuales. 
 
-**Ver dashboard POWER BI**
+[**Ver dashboard** ](https://app.powerbi.com/groups/me/reports/c2190365-c8f5-43d1-8f2e-4ed6a9db2004/1c327d6bea90c8f4856b?experience=power-bi)
+
+[**Ver PDF** ](https://github.com/CarolinaZarate/CyclisticProject/blob/main/DashboardCyclistic.pdf)
 
 ## 7. CONCLUSIONES
 - El 38.21% de los viajes son realizados por usuarios casuales, mientras que el 61.79% de los viajes son realizados por usuarios anuales. Esto indica que los usuarios anuales tienen mayor tasa de utilización del servicio, siendo consistente con la idea de que suscribirse anualmente incentiva a un uso más frecuente del préstamo de bicicletas.
